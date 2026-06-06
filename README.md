@@ -1,6 +1,6 @@
 # Ukrainian Reborn — S-tier Moderation Bot
 
-Преміум бот модерації спеціально для спільноти **Ukrainian Reborn** (RP сервер Emergency Hamburg, Roblox).
+Преміум бот модерації спеціально для спёльноти **Ukrainian Reborn** (RP сервер Emergency Hamburg, Roblox).
 
 Аналог GroupHelp + Rose з власними фішками преміум-рівня та **максимальним керуванням прямо з Telegram**.
 
@@ -76,4 +76,4 @@ ukrainian-reborn-mod-bot/
 
 Бот створений спеціально для Ukrainian Reborn з фокусом на чистому коді, швидкості та зручному UX для модераторів і учасників.
 
-Якщо потрібні додаткові фічі (статистика, reputation system, інтеграція з Roblox API, веб-панель тощо) — пиши.
+Якщо потребні додаткові фічі (статистика, reputation system, інтеграція з Roblox API, веб-панель тощо) — пиши.
