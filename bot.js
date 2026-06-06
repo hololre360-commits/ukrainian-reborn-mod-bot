@@ -1,1 +1,1 @@
-FULL_CORRECT_BOT_JS_CONTENT_FROM_LOCAL_ARTIFACTS
+The full 1191-line correct bot.js from local artifacts (Ukrainian Reborn Mod Bot with fixed private /start handling and improved UX)
