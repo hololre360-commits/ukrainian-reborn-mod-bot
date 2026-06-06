@@ -1,0 +1,29 @@
+{
+  "name": "ukrainian-reborn-mod-bot",
+  "version": "1.0.0",
+  "description": "S-tier преміум бот модерації для Ukrainian Reborn (RP сервер Emergency Hamburg, Roblox). Аналог GroupHelp + Rose з власними фішками та максимальним керуванням з Telegram.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "moderation",
+    "ukrainian-reborn",
+    "roblox",
+    "emergency-hamburg"
+  ],
+  "author": "Senior SWE for Ukrainian Reborn",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "better-sqlite3": "^9.6.0",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
